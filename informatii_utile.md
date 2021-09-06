@@ -1,3 +1,6 @@
+# Informatie de contact:
++ E-mail: chilatsergiu@gmail.com
+
 # Code editors:
 + Notepad
 + Notepad++L: https://notepad-plus-plus.org/
