@@ -1,6 +1,9 @@
 # Contact information:
 + E-mail: chilatsergiu@gmail.com
 
+# Information resources
++ https://htmlbook.ru
+
 # Code editors:
 + Notepad
 + Notepad++L: https://notepad-plus-plus.org/
