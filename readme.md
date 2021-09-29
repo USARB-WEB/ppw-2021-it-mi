@@ -23,5 +23,6 @@
 + Gimp
 
 
-# Tools
+# Tools & useful links
 + https://cssminifier.com/
++ https://fonts.google.com/
