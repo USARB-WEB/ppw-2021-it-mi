@@ -1,3 +1,7 @@
+# Link to conference 05.10.2021
+https://meet.google.com/qwr-tnxg-zns
+
+
 # Contact information:
 + E-mail: chilatsergiu@gmail.com
 
