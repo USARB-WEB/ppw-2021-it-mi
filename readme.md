@@ -1,5 +1,5 @@
-# Link to conference 05.10.2021
-https://meet.google.com/qwr-tnxg-zns
+# Link to conference 12.10.2021
+https://meet.google.com/dkw-fueo-zct
 
 # Contact information:
 + E-mail: chilatsergiu@gmail.com
