@@ -4,6 +4,9 @@ https://meet.google.com/dkw-fueo-zct
 # Contact information:
 + E-mail: chilatsergiu@gmail.com
 
+# Site with examples on firebase
++ https://ppw2021-it-mi.web.app/
+
 # Information resources
 + https://htmlbook.ru
 
