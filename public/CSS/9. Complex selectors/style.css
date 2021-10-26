@@ -1,0 +1,38 @@
+.red-square{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.yellow-square{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.blue-square{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.red-circle{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.yellow-circle{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.blue-circle{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+}
