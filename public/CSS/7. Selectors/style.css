@@ -1,0 +1,20 @@
+#uniqueElement{
+    background-color: blueviolet;
+}
+
+.classOfElements{
+   background-color: aqua; 
+}
+
+a{
+   color: coral; 
+}
+
+hr{
+    height: 5px;
+    background-color: gray;
+}
+
+*{
+    /*border: 1px solid red;*/
+}
