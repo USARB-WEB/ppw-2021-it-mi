@@ -1,0 +1,18 @@
+* {
+    border: 5px dashed blue;
+}
+
+div{
+    width: 300px;
+    height: 150px;
+    border: 2px solid red;
+}
+
+.classOfElements{
+    border: 10px solid pink;
+}
+
+#uniqueElement{
+    border: 15px dotted cyan;
+}
+
