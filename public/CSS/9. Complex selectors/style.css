@@ -1,38 +1,26 @@
-.red-square{
+.square{
     width: 200px;
     height: 200px;
-    background-color: red;
 }
 
-.yellow-square{
+.circle{
     width: 200px;
     height: 200px;
+    border-radius: 50%;
+}
+
+.red{
+    background-color: rgb(223, 76, 76);
+}
+
+.yellow{
     background-color: yellow;
 }
 
-.blue-square{
-    width: 200px;
-    height: 200px;
-    background-color: blue;
+.blue{
+    background-color: rgb(112, 112, 235);
 }
 
-.red-circle{
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    border-radius: 50%;
-}
-
-.yellow-circle{
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-    border-radius: 50%;
-}
-
-.blue-circle{
-    width: 200px;
-    height: 200px;
-    background-color: blue;
-    border-radius: 50%;
+.green{
+    background-color: green;
 }
