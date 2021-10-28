@@ -9,6 +9,8 @@ https://meet.google.com/aii-brzi-xuv
 
 # Information resources
 + https://htmlbook.ru
++ CSS display https://www.w3schools.com/cssref/pr_class_display.asp
++ CSS Grid https://css-tricks.com/snippets/css/complete-guide-grid/
 
 # Code editors:
 + Notepad
