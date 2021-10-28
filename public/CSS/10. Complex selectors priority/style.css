@@ -1,0 +1,17 @@
+.element{
+    border: 1px solid gray;
+    width: 300px;
+    height: 300px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
