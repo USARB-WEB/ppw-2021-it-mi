@@ -1,4 +1,4 @@
-# Link to conference 01.11.2021
+# Link to conference
 https://meet.google.com/aii-brzi-xuv
 
 # Contact information:
