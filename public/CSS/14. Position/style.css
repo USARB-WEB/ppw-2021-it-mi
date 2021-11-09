@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(44, 42, 42);
+}
+
+.element{
+    width: 250px;
+    height: 120px;
+    background-color: grey;
+    border: 1px solid red;
+}
+
+.relative{
+    position: relative;
+    background-color: hotpink;
+    top: -30px;
+    left: 30px;
+}
+
+.absolute{
+    position: absolute;
+    background-color:lawngreen;
+    top: 50px;
+    left: 30px;
+}
+
+.fixed{
+    position: fixed;
+    background-color:mediumblue;
+    top: 50px;
+    left: 30px;
+}
+
+.field{
+    border: 5px solid white;
+    background-color: green;
+    width: 800px;
+    height: 400px;
+}
+
+.ball{
+    position: sticky;
+    width: 30px;
+    height: 30px;
+    background-color: moccasin;
+    border-radius: 50%;
+    left: 400px;
+    top: 100px;
+}
+
+.bottom-right{
+    position: fixed;
+    background-color: orange;
+    right: 0;
+    bottom: 0;
+}
