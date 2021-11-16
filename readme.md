@@ -7,6 +7,9 @@ https://meet.google.com/aii-brzi-xuv
 # Site with examples on firebase
 + https://ppw2021-it-mi.web.app/
 
+# Standards 
++ BEM http://getbem.com/
+
 # Information resources
 + https://htmlbook.ru
 + CSS display https://www.w3schools.com/cssref/pr_class_display.asp
